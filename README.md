@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="30%" src="./src/assets/favicon.png">
+    <img width="15%" src="./src/assets/favicon.png">
     <h1>Homes</h1>
     <p>This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.7.</p>
 </div>
